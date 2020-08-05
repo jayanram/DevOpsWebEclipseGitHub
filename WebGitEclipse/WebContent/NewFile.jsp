@@ -7,10 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> User Registration Home Page Modified</h1>
+<h1> New File </h1>
 <ul>
 	<li><a href="register.html"> Click to register</a></li>
 	<li><a href="details.html"> Click to view Details</a></li>
 </ul>
+
 </body>
 </html>
